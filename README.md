@@ -12,6 +12,7 @@ To print "Hello, world!" in SimpLang, you can use the `imprime_a_consola` statem
 
 ```simp
 imprime_a_consola("Hello, world!")
+```
 This will output Hello, world! to the console.
 
 Language Features
